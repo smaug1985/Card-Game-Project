@@ -1,0 +1,45 @@
+"play" = "Jugar ";
+"multiplayer" = "Multijugador ";
+"leaderboard" = "Puntuaciones ";
+"achievements" = "Logros";
+"settings" = "Opciones ";
+"help" = "Ayuda ";
+"back" = "Volver ";
+"mainMenu" = "Menú principal ";
+
+"menu_sound" = "Sonido ";
+"menu_sound_op1" = "ON ";
+"menu_sound_op2" = "OFF ";
+"menu_baraja" = "Baraja ";
+"menu_change_baraja_title" = "Elige tu baraja ";
+
+"makeBet" = "Apos. ";
+"clear" = "Reset ";
+
+"double" = "Doblar ";
+"callCard" = "Carta ";
+"handOk" = "Seguir ";
+"stand" = "Plantarse ";
+
+"leaderBoard" = "Leader Board";
+"exit" = "Salir";
+"resume" = "Continuar";
+"cancel" = "Cancelar";
+"finding" = "Buscando partidas...";
+"wait" = "Cargando Partida. Espere unos segundos";
+
+//Claves opciones BlackJack
+"menu_op_bj_european" = "Europeo";
+"menu_op_bj_american" = "Americano";
+"menu_op_bj_custom" = "Personalizado";
+"menu_op_bj_fall" = "Rendirse";
+"menu_op_bj_double" = "Doblar";
+"menu_op_bj_split" = "Dividir";
+"menu_op_bj_yes" = "Si";
+"menu_op_bj_no" = "No";
+"menu_op_bj_save" = "Guardar";
+"menu_op_bj_back" = "Volver";
+"menu_op_bj_numDeck" = "Nº Baraja";
+"menu_op_bj_table" = "Nº Mesa";
+"description" = "El blackjack consiste en obtener 21 puntos mediante la suma de los valores de las cartas. Las cartas numericas suman su valor, las figuras suman 10 y el as es un 11 o un 1 segun convenga la jugada total. Si se consigue 21 con solo dos cartas, se considera blackjack y se gana automaticamente.
+Se juega en una mesa semicircular con capacidad normalmente para 4 jugadores, cada uno de los cuales dispone de un casillero marcado en el tapete para realizar su apuesta antes de cada mano. Esta apuesta debe ser realizada en cada mano, necesariamente antes de que se ponga en juego la primera carta.";

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>pregunta</key>
+		<string>Año de finalización de La última Cena, cuadro de Leonardo Da Vinci</string>
+		<key>respuesta</key>
+		<string>1498</string>
+		<key>longitud</key>
+		<string>4</string>
+	</dict>
+	<dict>
+		<key>pregunta</key>
+		<string>Apellido del físico inglés cuya tumba van a ver los protagonistas de la novela y que está en la Abadía de Westminster</string>
+		<key>respuesta</key>
+		<string>NEWTON</string>
+		<key>longitud</key>
+		<string>6</string>
+	</dict>
+	<dict>
+		<key>pregunta</key>
+		<string>Nombre del actor que interpreta al inspector frances Bezu Fache en la película</string>
+		<key>respuesta</key>
+		<string>JEAN</string>
+		<key>longitud</key>
+		<string>4</string>
+	</dict>
+	<dict>
+		<key>pregunta</key>
+		<string>Nombre del "fantasma", el monje albino devoto del Opus Dei</string>
+		<key>respuesta</key>
+		<string>SILAS</string>
+		<key>longitud</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>pregunta</key>
+		<string>Ritual pagano que estaba realizando Saunière cuando le descubrió su nieta: Hieros _____</string>
+		<key>respuesta</key>
+		<string>GAMOS</string>
+		<key>longitud</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>pregunta</key>
+		<string>Apellido de la actriz que interpreta en la pelicula a Sophie Neveu</string>
+		<key>respuesta</key>
+		<string>TAUTOU</string>
+		<key>longitud</key>
+		<string>6</string>
+	</dict>
+	<dict>
+		<key>pregunta</key>
+		<string>Nombre por el que es conocida la estrella que representa la masculinidad y la feminidad interpretada por dos triángulos</string>
+		<key>respuesta</key>
+		<string>DAVID</string>
+		<key>longitud</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>pregunta</key>
+		<string>Completa la frase: “Bajo la antigua ____, el Grial con impaciencia espera tu llegada</string>
+		<key>respuesta</key>
+		<string>ROSLIN</string>
+		<key>longitud</key>
+		<string>6</string>
+	</dict>
+	<dict>
+		<key>pregunta</key>
+		<string>El personaje  André Vernet es el presidente de la sucursal parisina del Banco de Depósitos de ____</string>
+		<key>respuesta</key>
+		<string>ZURICH</string>
+		<key>longitud</key>
+		<string>6</string>
+	</dict>
+	<dict>
+		<key>pregunta</key>
+		<string>Nombre del mayordomo de El Maestro</string>
+		<key>respuesta</key>
+		<string>REMY</string>
+		<key>longitud</key>
+		<string>4</string>
+	</dict>
+</array>
+</plist>

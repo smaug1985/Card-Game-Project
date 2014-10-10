@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>pregunta</key>
+		<string>¿En qué ciudad transcurre la mayor parte de la historia de la novela?</string>
+		<key>respuesta</key>
+		<string>PARIS</string>
+		<key>longitud</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>pregunta</key>
+		<string>¿Cómo se llama la hija del Gran Maestre Jacques Saunière?</string>
+		<key>respuesta</key>
+		<string>SOPHIE</string>
+		<key>longitud</key>
+		<string>6</string>
+	</dict>
+	<dict>
+		<key>pregunta</key>
+		<string>Apellido del escritor de la novela El Código Da Vinci</string>
+		<key>respuesta</key>
+		<string>BROWN</string>
+		<key>longitud</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>pregunta</key>
+		<string>Museo francés donde está expuesto el famoso cuadro de Da Vinci, La Mona Lisa</string>
+		<key>respuesta</key>
+		<string>LOUVRE</string>
+		<key>longitud</key>
+		<string>6</string>
+	</dict>
+	<dict>
+		<key>pregunta</key>
+		<string>Cuadro donde estaba escondida la llave de Saunière. La Virgen de las _____</string>
+		<key>respuesta</key>
+		<string>ROCAS</string>
+		<key>longitud</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>pregunta</key>
+		<string>Nombre del protagonista</string>
+		<key>respuesta</key>
+		<string>ROBERT</string>
+		<key>longitud</key>
+		<string>6</string>
+	</dict>
+	<dict>
+		<key>pregunta</key>
+		<string>¿Qué contiene el criptex en su interior y que se destruye con el vinagre si no se introduce correctamente el código de dicho invento de Da Vinci?</string>
+		<key>respuesta</key>
+		<string>PAPIRO</string>
+		<key>longitud</key>
+		<string>6</string>
+	</dict>
+	<dict>
+		<key>pregunta</key>
+		<string>Combinación del primer cryptex y que tiene que ver con alguno de los protagonistas</string>
+		<key>respuesta</key>
+		<string>SOFIA</string>
+		<key>longitud</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>pregunta</key>
+		<string>Combinación del segundo cryptex y que esta relacionado con Newton</string>
+		<key>respuesta</key>
+		<string>APPLE</string>
+		<key>longitud</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>pregunta</key>
+		<string>¿Qué rango en la Iglesia tenia el personaje Manuel Aringarosa, miembro del Opus Dei?</string>
+		<key>respuesta</key>
+		<string>OBISPO</string>
+		<key>longitud</key>
+		<string>6</string>
+	</dict>
+</array>
+</plist>

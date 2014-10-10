@@ -1,0 +1,45 @@
+"play" = "Play ";
+"multiplayer" = "Multiplayer ";
+"leaderboard" = "Leaderboard ";
+"settings" = "Settings ";
+"help" = "Help ";
+"back" = "Back ";
+"mainMenu" = "Main Menu ";
+"achievements" = "Achievements";
+
+"menu_sound" = "Sound";
+"menu_sound_op1" = "ON";
+"menu_sound_op2" = "OFF";
+"menu_baraja" = "Deck";
+"menu_change_baraja_title" = "Choose your deck";
+
+"makeBet" = "Bet ";
+"clear" = "Clear ";
+
+"double" = "Double ";
+"callCard" = "Card ";
+"stand" = "Stand ";
+"handOk" = "Continue ";
+
+"leaderBoard" = "Leader Board";
+"exit" = "Exit";
+"resume" = "Resume";
+"cancel" = "Cancel";
+"finding" = "Finding match...";
+"wait" = "Load match. Wait a moment";
+
+
+//Claves opciones BlackJack
+"menu_op_bj_european" = "European";
+"menu_op_bj_american" = "American";
+"menu_op_bj_custom" = "Custom";
+"menu_op_bj_fall" = "Fall";
+"menu_op_bj_double" = "Double";
+"menu_op_bj_split" = "Split";
+"menu_op_bj_yes" = "Yes";
+"menu_op_bj_no" = "No";
+"menu_op_bj_save" = "Save";
+"menu_op_bj_back" = "Back";
+"menu_op_bj_numDeck" = "Deck Number";
+"menu_op_bj_table" = "Table Number";
+"description" = "The player draws cards to an initial two card hand with the object of bringing the total hand value as close as possible to 21 without exceeding it, so that the house, which plays after the player, will fail to get up to the player's total, or will lose by exceeding 21. Blackjack is closely related to the games of Spanish 21 and Pontoon, but unrelated to the British game with the similar name Black Jack which is a shedding-type card game.";
